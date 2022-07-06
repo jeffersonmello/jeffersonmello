@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, seja bem vindo ao meu perfil, meu nome é Jefferson Mello Oynyki</h1>
+<h1 align="center">Olá 👋, seja bem vindo ao meu perfil, meu nome é Jefferson Mello Olynyki</h1>
 <h3 align="center">Sou desenvolvedor fullstack em Curia Online do Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffersonmello&label=Profile%20views&color=0e75b6&style=flat" alt="jeffersonmello" /> </p>
