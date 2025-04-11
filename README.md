@@ -17,13 +17,6 @@
   Desenvolvedor Fullstack na <strong>Curia Online do Brasil</strong>, apaixonado por criar soluções inovadoras e aprender novas tecnologias. Tenho experiência em diversas stacks, desde o frontend com frameworks modernos até o backend robusto e escalável, além de desenvolvimento mobile e cloud.
 </p>
 
-* 🔭 Atualmente estou trabalhando em [Nome do Projeto ou Área de Foco, se aplicável]
-* 🌱 Estou sempre aprendendo mais sobre [Tecnologia ou Conceito que está estudando]
-* 👯 Procuro colaborar em [Tipo de projeto ou causa]
-* 🤔 Busco ajuda com [Desafio ou tecnologia específica]
-* 💬 Pergunte-me sobre [Seus tópicos de expertise: ex: .NET, Angular, AWS...]
-* 📫 Como me encontrar: [Seu email profissional ou forma de contato preferida]
-* ⚡ Fato curioso: [Algo interessante sobre você, hobby, etc.]
 
 ---
 
